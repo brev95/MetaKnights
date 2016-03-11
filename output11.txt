@@ -1,0 +1,240 @@
+Alligator
+    Alligator 27
+
+
+Alpaca
+    Alpaca 4
+
+
+Anaconda
+    Anaconda 49
+
+
+Ant
+    Ant 24
+
+
+Anteater
+    Anteater 65
+    Baboon 2
+
+
+Antelope
+    Antelope 65
+    Catfish 2
+    Dragon 2
+    Porcupine 3
+    Crow 2
+
+
+Armadillo
+    Armadillo 4
+
+
+Baboon
+    Baboon 103
+    Catfish 5
+    Anteater 2
+
+
+Bear
+    Bear 27
+    Pelican 2
+
+
+Beaver
+    Beaver 16
+
+
+Camel
+    Camel 13
+    Cougar 4
+
+
+Cat
+    Cat 56
+    Crocodile 3
+    Ferret 2
+
+
+Catfish
+    Catfish 81
+    Antelope 2
+    Baboon 5
+    Lemming 3
+    Squirrel 5
+
+
+Cheetah
+    Cheetah 19
+
+
+Chimpanzee
+    Chimpanzee 5
+
+
+Cobra
+    Cobra 6
+
+
+Cougar
+    Cougar 68
+    Lemming 4
+    Camel 4
+
+
+Cow
+    Cow 7
+
+
+Coyote
+    Coyote 36
+
+
+Crab
+    Crab 19
+    Duck 2
+
+
+Crocodile
+    Crocodile 8
+    Cat 3
+
+
+Crow
+    Crow 64
+    Dragon 2
+    Antelope 2
+
+
+Dog
+    Dog 18
+
+
+Dragon
+    Dragon 54
+    Ferret 6
+    Antelope 2
+    Crow 2
+
+
+Duck
+    Squirrel 2
+    Duck 9
+    Crab 2
+
+
+Eagle
+    Eagle 18
+
+
+Elephant
+    Elephant 85
+    Snake 2
+
+
+Ferret
+    Ferret 145
+    Dragon 6
+    Cat 2
+
+
+Fox
+
+
+Goose
+    Goose 90
+    Wallaby 2
+
+
+Hyena
+    Hyena 54
+
+
+Lemming
+    Lemming 49
+    Cougar 4
+    Catfish 3
+
+
+Lion
+    Lion 21
+
+
+Lynx
+    Lynx 15
+    Otter 3
+
+
+Otter
+    Wallaby 2
+    Otter 28
+    Lynx 3
+
+
+Owl
+    Owl 4
+
+
+Parrot
+    Parrot 7
+
+
+Peacock
+    Peacock 2
+
+
+Pelican
+    Pelican 82
+    Bear 2
+    Rat 2
+
+
+Pig
+    Pig 6
+
+
+Porcupine
+    Porcupine 48
+    Antelope 3
+
+
+Rat
+    Rat 86
+    Pelican 2
+
+
+Shark
+    Shark 4
+
+
+Snake
+    Snake 31
+    Elephant 2
+
+
+Spider
+    Spider 31
+
+
+Squirrel
+    Squirrel 36
+    Duck 2
+    Catfish 5
+
+
+Swan
+    Swan 5
+
+
+Tortoise
+    Tortoise 20
+
+
+Wallaby
+    Wallaby 73
+    Otter 2
+    Goose 2
+
+
+0

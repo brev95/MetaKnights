@@ -1,0 +1,257 @@
+Alligator
+    Alligator 62
+    Cat 3
+    Eagle 5
+    Elephant 4
+
+
+Alpaca
+    Alpaca 8
+    Peacock 3
+
+
+Anaconda
+    Pelican 4
+    Anaconda 35
+    Snake 4
+    Antelope 3
+
+
+Ant
+    Ant 11
+    Opossum 5
+
+
+Anteater
+    Anteater 15
+
+
+Antelope
+    Antelope 12
+    Snake 3
+    Anaconda 3
+
+
+Armadillo
+    Armadillo 3
+
+
+Baboon
+    Baboon 41
+
+
+Badger
+    Badger 12
+
+
+Bat
+    Bat 119
+    Elephant 3
+    Cougar 4
+
+
+Bear
+    Bear 14
+
+
+Caiman
+    Caiman 3
+
+
+Camel
+    Camel 44
+    Spider 3
+
+
+Caribou
+    Caribou 19
+    Spider 6
+
+
+Cat
+    Cat 32
+    Alligator 3
+    Eagle 6
+    Elephant 3
+
+
+Catfish
+    Catfish 48
+    Otter 3
+
+
+Cheetah
+    Cheetah 58
+
+
+Chipmunk
+    Chipmunk 5
+
+
+Cobra
+    Cobra 4
+
+
+Cougar
+    Cougar 27
+    Bat 4
+
+
+Cow
+    Cow 7
+
+
+Crow
+    Crow 18
+
+
+Dolphin
+    Dolphin 10
+
+
+Dragon
+    Dragon 26
+    Pelican 3
+
+
+Duck
+    Duck 15
+    Spider 5
+
+
+Eagle
+    Eagle 44
+    Cat 6
+    Alligator 5
+    Elephant 4
+
+
+Elephant
+    Elephant 80
+    Bat 3
+    Rat 5
+    Otter 3
+    Alligator 4
+    Eagle 4
+    Cat 3
+
+
+Fox
+    Fox 3
+
+
+Goose
+    Goose 23
+
+
+Hyena
+    Hyena 4
+
+
+Kangaroo
+    Kangaroo 3
+
+
+Lemming
+    Lemming 19
+
+
+Lion
+    Lion 7
+
+
+Lizard
+    Lizard 33
+
+
+Lynx
+    Lynx 18
+    Rat 3
+
+
+Opossum
+    Opossum 27
+    Ant 5
+
+
+Otter
+    Otter 36
+    Pelican 5
+    Elephant 3
+    Catfish 3
+
+
+Owl
+    Owl 9
+
+
+Parrot
+    Parrot 11
+
+
+Peacock
+    Peacock 14
+    Alpaca 3
+
+
+Pelican
+    Pelican 31
+    Anaconda 4
+    Otter 5
+    Rat 3
+    Dragon 3
+
+
+Pig
+    Pig 3
+
+
+Porcupine
+    Porcupine 19
+
+
+Rat
+    Rat 57
+    Lynx 3
+    Elephant 5
+    Pelican 3
+
+
+SeaLion
+    SeaLion 6
+
+
+Snake
+    Snake 30
+    Antelope 3
+    Anaconda 4
+
+
+Spider
+    Spider 96
+    Duck 5
+    Caribou 6
+    Camel 3
+
+
+Squirrel
+    Squirrel 24
+
+
+Stork
+    Stork 30
+
+
+Swan
+    Swan 4
+
+
+Tortoise
+    Tortoise 29
+
+
+Wallaby
+    Wallaby 40
+
+
+0

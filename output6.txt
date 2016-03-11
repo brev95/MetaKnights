@@ -1,0 +1,204 @@
+Albatross
+    Albatross 8
+
+
+Alligator
+    Alligator 129
+    Elephant 36
+    Cat 5
+    Rat 3
+    Opossum 3
+
+
+Anaconda
+    Anaconda 10
+
+
+Ant
+    Ant 17
+    Opossum 5
+
+
+Anteater
+    Baboon 3
+    Anteater 28
+
+
+Armadillo
+    Armadillo 5
+
+
+Baboon
+    Baboon 15
+    Anteater 3
+
+
+Badger
+    Badger 28
+    Parrot 3
+    Rat 4
+
+
+Bat
+    Bat 43
+
+
+Bear
+    Bear 7
+
+
+Beaver
+    Beaver 14
+    Cat 6
+
+
+Cat
+    Cat 142
+    Rat 13
+    Parrot 3
+    Elephant 3
+    Lion 8
+    Hare 5
+    Beaver 6
+    Alligator 5
+    Lizard 5
+
+
+Crow
+    Crow 3
+
+
+Dog
+    Dog 27
+    Opossum 3
+
+
+Dragon
+    Dragon 6
+
+
+Elephant
+    Elephant 81
+    Opossum 4
+    Alligator 36
+    Cat 3
+    Lizard 3
+
+
+Fox
+    Fox 6
+
+
+Goose
+    Goose 5
+
+
+Hare
+    Cat 5
+    Hare 18
+    Rat 3
+    Parrot 3
+
+
+Lemming
+    Lemming 6
+
+
+Lion
+    Lion 25
+    Cat 8
+    Rat 4
+    Parrot 3
+
+
+Lizard
+    Lizard 32
+    Cat 5
+    Elephant 3
+
+
+Lynx
+    Lynx 5
+
+
+Magpie
+    Magpie 5
+
+
+Opossum
+    Opossum 62
+    Dog 3
+    Elephant 4
+    Ant 5
+    Alligator 3
+
+
+Otter
+    Otter 17
+
+
+Owl
+    Owl 3
+
+
+Parrot
+    Parrot 23
+    Cat 3
+    Hare 3
+    Badger 3
+    Lion 3
+
+
+Pelican
+    Pelican 9
+
+
+Porcupine
+    Porcupine 4
+
+
+Rat
+    Rat 39
+    Cat 13
+    Lion 4
+    Hare 3
+    Alligator 3
+    Badger 4
+
+
+Raven
+    Raven 11
+
+
+SeaLion
+    SeaLion 4
+
+
+Sheep
+    Sheep 10
+
+
+Snake
+    Snake 8
+
+
+Spider
+    Spider 5
+
+
+Squirrel
+    Squirrel 9
+
+
+Swan
+
+
+Tortoise
+    Tortoise 8
+
+
+Wallaby
+    Wallaby 15
+
+
+0

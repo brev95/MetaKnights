@@ -1,0 +1,264 @@
+Alpaca
+    Alpaca 12
+
+
+Ant
+    Ant 78
+    Opossum 6
+
+
+Anteater
+    Anteater 5
+
+
+Armadillo
+    Armadillo 3
+
+
+Baboon
+    Baboon 22
+
+
+Badger
+    Badger 12
+
+
+Bat
+    Bat 51
+    Rat 5
+
+
+Bear
+    Bear 7
+    Rat 3
+
+
+Beaver
+    Beaver 7
+
+
+Camel
+    Camel 11
+    Duck 4
+
+
+Cat
+    Cat 26
+
+
+Catfish
+    Catfish 43
+    Dog 3
+
+
+Cheetah
+    Cheetah 17
+
+
+Chipmunk
+    Chipmunk 3
+
+
+Cobra
+    Cobra 3
+
+
+Cow
+    Cow 11
+
+
+Crow
+    Crow 14
+
+
+Dog
+    Dog 37
+    Goose 6
+    Lizard 4
+    Catfish 3
+
+
+Dolphin
+
+
+Dragon
+    Dragon 7
+
+
+Duck
+    Spider 3
+    SeaLion 3
+    Duck 13
+    Camel 4
+
+
+Eagle
+    Eagle 8
+
+
+Elephant
+    Elephant 89
+    Wombat 4
+    Lizard 5
+    Opossum 3
+    Stork 3
+
+
+Ferret
+
+
+Fox
+    Fox 12
+
+
+Goose
+    Dog 6
+    Goose 17
+    Porcupine 6
+
+
+Hyena
+    Hyena 93
+    Lizard 11
+    Tortoise 4
+    Otter 8
+    Opossum 3
+    SeaLion 3
+
+
+Lemming
+    Lemming 8
+
+
+Lion
+    Lion 13
+
+
+Lizard
+    Lizard 190
+    Otter 19
+    Dog 4
+    Wombat 6
+    Opossum 6
+    Hyena 11
+    Elephant 5
+    Rat 4
+    Tortoise 4
+
+
+Opossum
+    Opossum 49
+    Ant 6
+    Lizard 6
+    Rat 4
+    Otter 8
+    Elephant 3
+    Hyena 3
+
+
+Otter
+    Otter 196
+    Lizard 19
+    Wombat 7
+    Porcupine 3
+    Rat 7
+    Opossum 8
+    Hyena 8
+
+
+Owl
+    Owl 3
+
+
+Parrot
+    Stork 4
+    Parrot 38
+
+
+Peacock
+    Peacock 3
+
+
+Pelican
+
+
+Pig
+    Pig 3
+
+
+Porcupine
+    Porcupine 24
+    Goose 6
+    Otter 3
+
+
+Rat
+    Rat 61
+    Bat 5
+    Bear 3
+    Opossum 4
+    Otter 7
+    Lizard 4
+
+
+SeaLion
+    SeaLion 33
+    Spider 9
+    Duck 3
+    Hyena 3
+
+
+Shark
+    Shark 11
+
+
+Sheep
+    Sheep 24
+    Wallaby 3
+
+
+Snake
+    Snake 14
+
+
+Spider
+    Spider 46
+    SeaLion 9
+    Duck 3
+
+
+Squirrel
+    Squirrel 24
+
+
+Stork
+    Stork 43
+    Parrot 4
+    Elephant 3
+
+
+Swan
+    Swan 6
+
+
+Tortoise
+    Tortoise 44
+    Hyena 4
+    Wombat 8
+    Lizard 4
+
+
+Wallaby
+    Wallaby 28
+    Sheep 3
+
+
+Wombat
+    Wombat 84
+    Otter 7
+    Lizard 6
+    Elephant 4
+    Tortoise 8
+
+
+0

@@ -1,0 +1,192 @@
+Aardvark
+
+
+Alligator
+    Alligator 73
+    Elephant 22
+    Wallaby 3
+
+
+Alpaca
+    Alpaca 3
+
+
+Anaconda
+    Anaconda 29
+
+
+Ant
+    Ant 23
+    Opossum 6
+
+
+Anteater
+    Anteater 36
+    Dragon 9
+    Baboon 3
+
+
+Antelope
+
+
+Baboon
+    Baboon 16
+    Anteater 3
+    Dragon 5
+
+
+Badger
+    Badger 24
+    Rat 7
+    Parrot 3
+
+
+Bat
+    Bat 39
+
+
+Beaver
+
+
+Cat
+    Cat 20
+    Rat 3
+
+
+Crow
+    Crow 28
+    Dragon 9
+
+
+Dog
+    Dog 18
+
+
+Dragon
+    Anteater 9
+    Dragon 55
+    Crow 9
+    Baboon 5
+
+
+Elephant
+    Elephant 63
+    Alligator 22
+
+
+Ferret
+
+
+Fox
+    Fox 11
+
+
+Goose
+    Goose 11
+    Rat 5
+
+
+Hare
+
+
+Lemming
+    Lemming 15
+
+
+Lion
+    Lion 25
+    Rat 3
+    Parrot 3
+
+
+Lizard
+    Lizard 20
+
+
+Lynx
+    Lynx 6
+
+
+Magpie
+    Magpie 4
+
+
+Opossum
+    Opossum 20
+    Ant 6
+
+
+Otter
+    Otter 29
+
+
+Owl
+    Owl 13
+
+
+Parrot
+    Parrot 16
+    Badger 3
+    Lion 3
+
+
+Pelican
+    Pelican 6
+
+
+Porcupine
+    Porcupine 12
+
+
+Rat
+    Badger 7
+    Rat 27
+    Goose 5
+    Lion 3
+    Cat 3
+
+
+Raven
+    Raven 10
+
+
+SeaLion
+    SeaLion 27
+    Spider 3
+
+
+Sheep
+    Sheep 9
+
+
+Snake
+    Snake 4
+
+
+Spider
+    SeaLion 3
+    Spider 7
+
+
+Squirrel
+    Squirrel 9
+
+
+Stork
+    Stork 11
+
+
+Swan
+    Swan 4
+
+
+Tortoise
+    Tortoise 18
+
+
+Wallaby
+    Wallaby 41
+    Alligator 3
+
+
+0

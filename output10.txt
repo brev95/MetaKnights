@@ -1,0 +1,377 @@
+Alligator
+    Alligator 31
+    Stork 7
+
+
+Alpaca
+    Alpaca 6
+
+
+Anaconda
+    Antelope 6
+    Anaconda 62
+    Porcupine 3
+    Anteater 3
+    Stork 4
+
+
+Ant
+    Ant 26
+    Opossum 6
+    Bat 3
+
+
+Anteater
+    Anteater 80
+    Ferret 11
+    Stork 19
+    Anaconda 3
+    Opossum 4
+    Baboon 3
+
+
+Antelope
+    Antelope 99
+    Crow 11
+    Otter 3
+    Anaconda 6
+    Lizard 13
+    Catfish 3
+    Porcupine 9
+    Elephant 7
+    Dragon 6
+    Lynx 5
+    Bat 3
+    Rat 3
+    Wallaby 5
+
+
+Armadillo
+    Armadillo 4
+
+
+Baboon
+    Baboon 114
+    Bat 5
+    Opossum 5
+    Catfish 6
+    Rat 5
+    Lizard 3
+    Anteater 3
+
+
+Bat
+    Bat 309
+    SeaLion 11
+    Opossum 9
+    Lizard 67
+    Cougar 5
+    Baboon 5
+    Rat 5
+    Hyena 4
+    Tortoise 4
+    Pelican 12
+    Catfish 4
+    Lemming 9
+    Antelope 3
+    Squirrel 3
+    Elephant 4
+    Ant 3
+
+
+Bear
+    Bear 32
+    Pelican 3
+
+
+Beaver
+    Beaver 16
+
+
+Camel
+    Camel 18
+    Duck 4
+    Cougar 5
+
+
+Cat
+    Cat 68
+    Ferret 6
+    Stork 12
+    Crocodile 4
+
+
+Catfish
+    Catfish 87
+    Antelope 3
+    Bat 4
+    Baboon 6
+    SeaLion 3
+    Lemming 3
+    Squirrel 5
+
+
+Cheetah
+    Cheetah 19
+
+
+Chimpanzee
+    Chimpanzee 5
+
+
+Cobra
+    Cobra 7
+
+
+Cougar
+    Cougar 74
+    Bat 5
+    Lemming 6
+    Camel 5
+
+
+Cow
+    Cow 8
+
+
+Coyote
+    Coyote 36
+
+
+Crab
+    Crab 20
+
+
+Crocodile
+    Crocodile 9
+    Cat 4
+
+
+Crow
+    Crow 76
+    Antelope 11
+    Elephant 3
+    Dragon 4
+    Wallaby 3
+
+
+Dog
+    Dog 22
+
+
+Dragon
+    Elephant 3
+    Dragon 76
+    Stork 8
+    Ferret 15
+    SeaLion 4
+    Antelope 6
+    Crow 4
+    Goose 3
+    Porcupine 4
+
+
+Duck
+    Camel 4
+    Duck 16
+    SeaLion 3
+
+
+Eagle
+    Eagle 20
+
+
+Elephant
+    Elephant 104
+    Pelican 3
+    Dragon 3
+    Stork 9
+    Crow 3
+    Antelope 7
+    Wallaby 3
+    Ferret 5
+    Bat 4
+    Snake 3
+    SeaLion 6
+
+
+Ferret
+    Ferret 189
+    Stork 94
+    SeaLion 22
+    Anteater 11
+    Dragon 15
+    Opossum 9
+    Cat 6
+    Elephant 5
+
+
+Fox
+
+
+Goose
+    Goose 96
+    Dragon 3
+    Wallaby 3
+
+
+Hyena
+    Hyena 58
+    Bat 4
+
+
+Lemming
+    Lemming 57
+    Cougar 6
+    Bat 9
+    Catfish 3
+
+
+Lion
+    Lion 22
+
+
+Lizard
+    Opossum 21
+    Lizard 332
+    SeaLion 14
+    Bat 67
+    Rat 6
+    Pelican 8
+    Antelope 13
+    Baboon 3
+
+
+Lynx
+    Lynx 21
+    Antelope 5
+    Otter 4
+
+
+Opossum
+    Opossum 179
+    Lizard 21
+    SeaLion 10
+    Bat 9
+    Stork 11
+    Ferret 9
+    Baboon 5
+    Rat 9
+    Ant 6
+    Anteater 4
+
+
+Otter
+    Otter 36
+    Antelope 3
+    Lynx 4
+
+
+Owl
+    Owl 4
+
+
+Parrot
+    Parrot 9
+
+
+Peacock
+
+
+Pelican
+    Pelican 96
+    Elephant 3
+    Lizard 8
+    Bear 3
+    Bat 12
+    Rat 7
+
+
+Pig
+    Pig 7
+
+
+Porcupine
+    Porcupine 58
+    Antelope 9
+    Anaconda 3
+    Dragon 4
+
+
+Rat
+    Bat 5
+    Rat 106
+    Lizard 6
+    SeaLion 7
+    Opossum 9
+    Pelican 7
+    Baboon 5
+    Antelope 3
+
+
+SeaLion
+    SeaLion 217
+    Opossum 10
+    Bat 11
+    Lizard 14
+    Ferret 22
+    Stork 18
+    Spider 7
+    Rat 7
+    Dragon 4
+    Duck 3
+    Catfish 3
+    Elephant 6
+
+
+Shark
+    Shark 7
+
+
+Snake
+    Snake 34
+    Elephant 3
+
+
+Spider
+    Spider 35
+    SeaLion 7
+
+
+Squirrel
+    Squirrel 38
+    Catfish 5
+    Bat 3
+
+
+Stork
+    Ferret 94
+    Stork 259
+    SeaLion 18
+    Anteater 19
+    Dragon 8
+    Opossum 11
+    Alligator 7
+    Elephant 9
+    Cat 12
+    Anaconda 4
+
+
+Swan
+    Swan 5
+
+
+Tortoise
+    Tortoise 25
+    Bat 4
+
+
+Wallaby
+    Wallaby 80
+    Elephant 3
+    Antelope 5
+    Goose 3
+    Crow 3
+
+
+0
